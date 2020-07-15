@@ -64,3 +64,4 @@ path.onFrame = (e) => {
 }
 
 paper.view.draw();
+
