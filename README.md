@@ -1,13 +1,13 @@
 # Animation and Keyboard
 
-For this Hackathon, our objetive was to use [Paper.js](http://paperjs.org/).
+For this Hackathon, our objetive was to make changes to a previously completed Hackathon project.  I decided to make the app a little more user friendly.
 
+I added the notes being played to the keys themselves and also added some background music that can be played along to.  
 
-Finding a good idea to work on was really challenging, and It was my first time working with open source vector graphics scripting framework.
+Future Ideas:
 
-I had a coding/art project mulling about in my head and thought this was a great opportunity to build it. I was thinking to combine canvas, animation and sound. So I decided to create this [project](https://yasamanloghmani.github.io/animation-game/)
+- Make a music player out of the background music options
+- Add a toggle button to toggle between keyboard keys and notes
+- Add an adjustable metronome for practicing scales and pieces
 
-![main](https://imgur.com/wahFo5M.png)
-
-![responsive](https://imgur.com/DX6dWli.png)
 # mintbean_7_15_hackathon

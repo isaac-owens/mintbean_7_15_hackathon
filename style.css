@@ -329,6 +329,10 @@ h2 {
   z-index: 100;
 }
 
+.iconfont {
+  display: inline-block;
+}
+
 .keys:hover .hints {
   opacity: 1;
 }
