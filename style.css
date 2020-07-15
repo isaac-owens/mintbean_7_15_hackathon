@@ -167,12 +167,12 @@ h3{
     font-weight: bold;
      -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    background-image: -webkit-radial-gradient( 110% 50%, circle, rgb(8, 1, 1) 0%,#d487e9 110%,rgb(0, 7, 5));
-      background-image: radial-gradient( circle at 110% 50%, rgb(5, 0, 1) 0%,#d487e9 110%,rgb(10, 0, 0));
+    background-image: -webkit-radial-gradient( 110% 50%, circle, rgb(8, 1, 1) 0%,#0712f1 110%,rgb(0, 7, 5));
+      background-image: radial-gradient( circle at 110% 50%, rgb(5, 0, 1) 0%,#0712f1 110%,rgb(10, 0, 0));
     text-decoration: underline;
     animation-name: pan-gradient;
     animation-iteration-count: infinite;
-    animation-duration: 5s;
+    animation-duration: 10s;
 }
 
 
@@ -354,10 +354,10 @@ h2 {
 .major-key-set {
   display: flex;
   flex-direction: row;
+  justify-content: space-around;
   font-size: 50px;
   width: 878px;
   margin: 0 auto; 
-  justify-content: space-around;
   position: absolute;
   top: 250;
   z-index: 3;
