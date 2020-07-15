@@ -336,3 +336,10 @@ h2 {
    
     height: 80px;
   }
+
+.key-note {
+  position: absolute;
+  background-color: orange;
+  height: 30px;
+  width: 30px;
+}
