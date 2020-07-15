@@ -337,25 +337,24 @@ h2 {
     height: 80px;
   }
 
-.key-set {
+.sharp-key-set {
+  display: flex;
+  flex-direction: row;
   background-color: orange;
+  font-size: 50px;
+  width: 760px;
+  margin: 0 auto;
+  z-index: 4;
+}
+
+.major-key-set {
   display: flex;
   flex-direction: row;
   font-size: 50px;
   width: 878px;
-  margin: 0 auto;
-}
-
-.key-note {
-  font-size: 30px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  margin: 0 auto; 
+  justify-content: space-around;
   position: absolute;
-  background-color: orange;
-  height: 50px;
-  width: 50px;
-  z-index: 10;
-  top: 260;
-  left: 15;
+  top: 250;
+  z-index: 3;
 }
