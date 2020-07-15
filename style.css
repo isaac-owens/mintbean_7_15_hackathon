@@ -337,6 +337,15 @@ h2 {
     height: 80px;
   }
 
+.key-set {
+  background-color: orange;
+  display: flex;
+  flex-direction: row;
+  font-size: 50px;
+  width: 878px;
+  margin: 0 auto;
+}
+
 .key-note {
   font-size: 30px;
   display: flex;
