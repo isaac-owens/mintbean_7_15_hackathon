@@ -106,7 +106,7 @@ section {
 
 body {
   line-height: 1;
-  background-color: #cf034a;
+  background-color: #4f8aff;
   text-align: center;
 }
 
@@ -241,7 +241,7 @@ h2 {
   font-size: 120px;
   line-height: 1;
   color: #eee;
-  text-shadow: 0 0 5rem #028ae9;
+  text-shadow: 0 0 5rem #dd2c70;
   transition: all .07s ease;
   min-height: 120px;
 }
@@ -314,8 +314,8 @@ h2 {
 
 .playing {
   transform: scale(.95);
-  border-color: #028ae9;
-  box-shadow: 0 0 1rem #028ae9;
+  border-color: white;
+  box-shadow: 0 0 1rem white;
 }
 
 .hints {
@@ -334,7 +334,7 @@ h2 {
 }
 .squig {
    
-    height: 80px;
+    height: 100px;
   }
 
 .sharp-key-set {
@@ -342,7 +342,6 @@ h2 {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  /* background-color: orange; */
   font-size: 35px;
   width: 752px;
   margin: 0 auto;
