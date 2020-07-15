@@ -172,6 +172,7 @@ h3{
     animation-name: pan-gradient;
     animation-iteration-count: infinite;
     animation-duration: 10s;
+    padding-bottom: 10px;
 }
 
 
@@ -335,6 +336,19 @@ h2 {
    
     height: 100px;
   }
+
+.background-music-playlist {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  margin: 0 auto;
+  width: 300px;
+  height: 200px;
+}
+
+#background-audio {
+  background: none;
+}
 
 .sharp-key-set {
   color: white;
