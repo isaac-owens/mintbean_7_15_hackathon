@@ -338,12 +338,17 @@ h2 {
   }
 
 .sharp-key-set {
+  color: white;
   display: flex;
   flex-direction: row;
-  background-color: orange;
-  font-size: 50px;
-  width: 760px;
+  justify-content: space-between;
+  /* background-color: orange; */
+  font-size: 35px;
+  width: 752px;
   margin: 0 auto;
+  position: absolute;
+  top: 100;
+  left: 65;
   z-index: 4;
 }
 
